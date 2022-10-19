@@ -1,0 +1,55 @@
+USE Northwinds2020TSQLV6
+SELECT DISTINCT EmployeeId, CustomerCity
+FROM sales.[Order]
+INNER JOIN sales.Customer
+ON [order].CustomerId = customer.CustomerID
+WHERE EmployeeId = 6
+ORDER BY CustomerCity;
+
+USE Northwinds2020TSQLV6
+SELECT C.CustomerId,
+       O.OrderId,
+       OD.ProductId,
+       OD.Quantity,
+       OD.UnitPrice
+FROM Sales.[Order] AS O
+    INNER JOIN Sales.[OrderDetail] AS OD
+        ON O.OrderId = OD.OrderId
+    RIGHT OUTER JOIN Sales.[Customer] AS C
+        ON C.CustomerId = O.CustomerId
+ORDER BY C.CustomerId;
+
+USE AdventureWorksDW2017
+DECLARE @custkey AS INT = (SELECT CustomerKey
+                            FROM dbo.findcustid('Caleb', 'F', 'Carter'))
+SELECT *
+FROM dbo.taxassets(@custkey);
+
+USE Northwinds2020TSQLV6
+SELECT supplierCountry, COUNT(DISTINCT supplierid) AS numbersupplier
+FROM (
+SELECT suppliercountry, supplierid
+FROM Production.Supplier) AS D(suppliercountry, supplierid)
+GROUP BY D.suppliercountry;
+
+USE WideWorldImporters
+DECLARE @custkey AS INT = (4)
+DECLARE @maxod AS DATETIME = (SELECT  MAX(orderdate)
+                            FROM sales.Orders
+                            WHERE CustomerID = @custkey)
+
+SELECT o.customerid, o.OrderDate, o.OrderID, CAST(o.PickingCompletedWhen AS SMALLDATETIME) AS pickingcomplete, 
+o.ExpectedDeliveryDate, ol.StockItemID, sih.QuantityOnHand,
+CASE WHEN o.ExpectedDeliveryDate > SYSDATETIME() THEN 'late' ELSE 'ontime' END AS status
+FROM sales.Orders AS o
+INNER JOIN sales.OrderLines AS ol
+ON ol.OrderID = o.OrderID
+INNER JOIN Warehouse.StockItemHoldings AS sih
+ON sih.StockItemID = ol.StockItemID
+WHERE o.customerid = @custkey AND o.OrderDate = @maxod;
+
+USE WideWorldImporters
+SELECT *
+FROM sales.custorderdelivery(4);
+
+

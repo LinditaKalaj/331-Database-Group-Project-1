@@ -1,0 +1,262 @@
+﻿{
+   "Scrapped&gt;70":[
+      {
+         "WorkOrderID":19480,
+         "ScrappedQty":72,
+         "ScrapReasonID":13,
+         "name":"Thermoform temperature too low"
+      },
+      {
+         "WorkOrderID":16079,
+         "ScrappedQty":73,
+         "ScrapReasonID":13,
+         "name":"Thermoform temperature too low"
+      },
+      {
+         "WorkOrderID":36755,
+         "ScrappedQty":78,
+         "ScrapReasonID":9,
+         "name":"Primer process failed"
+      },
+      {
+         "WorkOrderID":42071,
+         "ScrappedQty":83,
+         "ScrapReasonID":12,
+         "name":"Thermoform temperature too high"
+      },
+      {
+         "WorkOrderID":53865,
+         "ScrappedQty":83,
+         "ScrapReasonID":11,
+         "name":"Stress test failed"
+      },
+      {
+         "WorkOrderID":66140,
+         "ScrappedQty":83,
+         "ScrapReasonID":6,
+         "name":"Drill size too small"
+      },
+      {
+         "WorkOrderID":47670,
+         "ScrappedQty":84,
+         "ScrapReasonID":12,
+         "name":"Thermoform temperature too high"
+      },
+      {
+         "WorkOrderID":59820,
+         "ScrappedQty":85,
+         "ScrapReasonID":3,
+         "name":"Gouge in metal"
+      },
+      {
+         "WorkOrderID":50540,
+         "ScrappedQty":87,
+         "ScrapReasonID":6,
+         "name":"Drill size too small"
+      },
+      {
+         "WorkOrderID":39429,
+         "ScrappedQty":89,
+         "ScrapReasonID":5,
+         "name":"Drill size too large"
+      },
+      {
+         "WorkOrderID":24308,
+         "ScrappedQty":90,
+         "ScrapReasonID":2,
+         "name":"Color incorrect"
+      },
+      {
+         "WorkOrderID":27783,
+         "ScrappedQty":92,
+         "ScrapReasonID":14,
+         "name":"Trim length too long"
+      },
+      {
+         "WorkOrderID":27826,
+         "ScrappedQty":92,
+         "ScrapReasonID":4,
+         "name":"Drill pattern incorrect"
+      },
+      {
+         "WorkOrderID":14608,
+         "ScrappedQty":94,
+         "ScrapReasonID":2,
+         "name":"Color incorrect"
+      },
+      {
+         "WorkOrderID":56898,
+         "ScrappedQty":100,
+         "ScrapReasonID":16,
+         "name":"Wheel misaligned"
+      },
+      {
+         "WorkOrderID":69490,
+         "ScrappedQty":109,
+         "ScrapReasonID":15,
+         "name":"Trim length too short"
+      },
+      {
+         "WorkOrderID":32898,
+         "ScrappedQty":112,
+         "ScrapReasonID":16,
+         "name":"Wheel misaligned"
+      },
+      {
+         "WorkOrderID":9163,
+         "ScrappedQty":117,
+         "ScrapReasonID":10,
+         "name":"Seat assembly not as ordered"
+      },
+      {
+         "WorkOrderID":32892,
+         "ScrappedQty":117,
+         "ScrapReasonID":15,
+         "name":"Trim length too short"
+      },
+      {
+         "WorkOrderID":19489,
+         "ScrappedQty":123,
+         "ScrapReasonID":15,
+         "name":"Trim length too short"
+      },
+      {
+         "WorkOrderID":17740,
+         "ScrappedQty":126,
+         "ScrapReasonID":6,
+         "name":"Drill size too small"
+      },
+      {
+         "WorkOrderID":13148,
+         "ScrappedQty":128,
+         "ScrapReasonID":8,
+         "name":"Paint process failed"
+      },
+      {
+         "WorkOrderID":66132,
+         "ScrappedQty":130,
+         "ScrapReasonID":5,
+         "name":"Drill size too large"
+      },
+      {
+         "WorkOrderID":66149,
+         "ScrappedQty":134,
+         "ScrapReasonID":8,
+         "name":"Paint process failed"
+      },
+      {
+         "WorkOrderID":50532,
+         "ScrappedQty":134,
+         "ScrapReasonID":5,
+         "name":"Drill size too large"
+      },
+      {
+         "WorkOrderID":47662,
+         "ScrappedQty":135,
+         "ScrapReasonID":10,
+         "name":"Seat assembly not as ordered"
+      },
+      {
+         "WorkOrderID":47679,
+         "ScrappedQty":139,
+         "ScrapReasonID":13,
+         "name":"Thermoform temperature too low"
+      },
+      {
+         "WorkOrderID":50549,
+         "ScrappedQty":139,
+         "ScrapReasonID":8,
+         "name":"Paint process failed"
+      },
+      {
+         "WorkOrderID":39436,
+         "ScrappedQty":180,
+         "ScrapReasonID":6,
+         "name":"Drill size too small"
+      },
+      {
+         "WorkOrderID":21063,
+         "ScrappedQty":180,
+         "ScrapReasonID":10,
+         "name":"Seat assembly not as ordered"
+      },
+      {
+         "WorkOrderID":9157,
+         "ScrappedQty":181,
+         "ScrapReasonID":9,
+         "name":"Primer process failed"
+      },
+      {
+         "WorkOrderID":34823,
+         "ScrappedQty":197,
+         "ScrapReasonID":4,
+         "name":"Drill pattern incorrect"
+      },
+      {
+         "WorkOrderID":17735,
+         "ScrappedQty":202,
+         "ScrapReasonID":6,
+         "name":"Drill size too small"
+      },
+      {
+         "WorkOrderID":44803,
+         "ScrappedQty":203,
+         "ScrapReasonID":1,
+         "name":"Brake assembly not as ordered"
+      },
+      {
+         "WorkOrderID":19488,
+         "ScrappedQty":239,
+         "ScrapReasonID":15,
+         "name":"Trim length too short"
+      },
+      {
+         "WorkOrderID":39425,
+         "ScrappedQty":241,
+         "ScrapReasonID":4,
+         "name":"Drill pattern incorrect"
+      },
+      {
+         "WorkOrderID":66148,
+         "ScrappedQty":260,
+         "ScrapReasonID":8,
+         "name":"Paint process failed"
+      },
+      {
+         "WorkOrderID":50548,
+         "ScrappedQty":269,
+         "ScrapReasonID":8,
+         "name":"Paint process failed"
+      },
+      {
+         "WorkOrderID":47678,
+         "ScrappedQty":270,
+         "ScrapReasonID":13,
+         "name":"Thermoform temperature too low"
+      },
+      {
+         "WorkOrderID":21057,
+         "ScrappedQty":274,
+         "ScrapReasonID":9,
+         "name":"Primer process failed"
+      },
+      {
+         "WorkOrderID":34817,
+         "ScrappedQty":297,
+         "ScrapReasonID":3,
+         "name":"Gouge in metal"
+      },
+      {
+         "WorkOrderID":44797,
+         "ScrappedQty":314,
+         "ScrapReasonID":16,
+         "name":"Wheel misaligned"
+      },
+      {
+         "WorkOrderID":44786,
+         "ScrappedQty":673,
+         "ScrapReasonID":14,
+         "name":"Trim length too long"
+      }
+   ]
+}

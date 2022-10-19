@@ -1,0 +1,29 @@
+﻿{
+   "top5item":[
+      {
+         "Stock Item Key":639,
+         "Quantity On Hand":1034169,
+         "Last Cost Price":0.00
+      },
+      {
+         "Stock Item Key":637,
+         "Quantity On Hand":723037,
+         "Last Cost Price":1.00
+      },
+      {
+         "Stock Item Key":643,
+         "Quantity On Hand":686530,
+         "Last Cost Price":1.00
+      },
+      {
+         "Stock Item Key":648,
+         "Quantity On Hand":654741,
+         "Last Cost Price":2.00
+      },
+      {
+         "Stock Item Key":644,
+         "Quantity On Hand":618169,
+         "Last Cost Price":2.00
+      }
+   ]
+}

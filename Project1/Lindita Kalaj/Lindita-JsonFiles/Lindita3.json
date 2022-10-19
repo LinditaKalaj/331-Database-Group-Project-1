@@ -1,0 +1,18 @@
+﻿{
+   "findemptax":[
+      {
+         "CustomerKey":11067,
+         "orderyear":2013,
+         "sumtax":0.5024,
+         "NumberCarsOwned":2,
+         "homeowner":"Yes"
+      },
+      {
+         "CustomerKey":11067,
+         "orderyear":2014,
+         "sumtax":7.9576,
+         "NumberCarsOwned":2,
+         "homeowner":"Yes"
+      }
+   ]
+}

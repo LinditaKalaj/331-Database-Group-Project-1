@@ -1,0 +1,123 @@
+{
+   "ManagerRegion":[
+      {
+         "Name":"Amy Alberts",
+         "Title":"European Sales Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"F",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"David Bradley",
+         "Title":"Marketing Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"David Liu",
+         "Title":"Accounts Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Dylan Miller",
+         "Title":"Research and Development Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Gary Altman",
+         "Title":"Facilities Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Hazem Abolrous",
+         "Title":"Quality Assurance Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Jean Trenary",
+         "Title":"Information Services Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"F",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Michael Raheem",
+         "Title":"Research and Development Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Paula Barreto de Mattos",
+         "Title":"Human Resources Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"F",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Peter Krebs",
+         "Title":"Production Control Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Roberto Tamburello",
+         "Title":"Engineering Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Sheela Word",
+         "Title":"Purchasing Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"F",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Stephanie Conroy",
+         "Title":"Network Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"F",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Stephen Jiang",
+         "Title":"North American Sales Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Syed Abbas",
+         "Title":"Pacific Sales Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Wendy Kahn",
+         "Title":"Finance Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"F",
+         "SalariedFlag":true
+      },
+      {
+         "Name":"Zainal Arifin",
+         "Title":"Document Control Manager",
+         "SalesTerritoryCountry":"NA",
+         "Gender":"M",
+         "SalariedFlag":false
+      }
+   ]
+}

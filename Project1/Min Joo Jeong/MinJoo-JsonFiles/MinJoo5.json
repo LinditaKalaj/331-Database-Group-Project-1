@@ -1,0 +1,144 @@
+{
+   "EmployeeCompany":[
+      {
+         "EmployeeID":5,
+         "names":"Sven Mortensen",
+         "customercompanyname":"Customer AHPOP"
+      },
+      {
+         "EmployeeID":6,
+         "names":"Paul Suurs",
+         "customercompanyname":"Customer AHPOP"
+      },
+      {
+         "EmployeeID":7,
+         "names":"Russell King",
+         "customercompanyname":"Customer AHPOP"
+      },
+      {
+         "EmployeeID":9,
+         "names":"Patricia Doyle",
+         "customercompanyname":"Customer AHPOP"
+      },
+      {
+         "EmployeeID":5,
+         "names":"Sven Mortensen",
+         "customercompanyname":"Customer GCJSG"
+      },
+      {
+         "EmployeeID":6,
+         "names":"Paul Suurs",
+         "customercompanyname":"Customer GCJSG"
+      },
+      {
+         "EmployeeID":7,
+         "names":"Russell King",
+         "customercompanyname":"Customer GCJSG"
+      },
+      {
+         "EmployeeID":9,
+         "names":"Patricia Doyle",
+         "customercompanyname":"Customer GCJSG"
+      },
+      {
+         "EmployeeID":5,
+         "names":"Sven Mortensen",
+         "customercompanyname":"Customer GYBBY"
+      },
+      {
+         "EmployeeID":6,
+         "names":"Paul Suurs",
+         "customercompanyname":"Customer GYBBY"
+      },
+      {
+         "EmployeeID":7,
+         "names":"Russell King",
+         "customercompanyname":"Customer GYBBY"
+      },
+      {
+         "EmployeeID":9,
+         "names":"Patricia Doyle",
+         "customercompanyname":"Customer GYBBY"
+      },
+      {
+         "EmployeeID":5,
+         "names":"Sven Mortensen",
+         "customercompanyname":"Customer HFBZG"
+      },
+      {
+         "EmployeeID":6,
+         "names":"Paul Suurs",
+         "customercompanyname":"Customer HFBZG"
+      },
+      {
+         "EmployeeID":7,
+         "names":"Russell King",
+         "customercompanyname":"Customer HFBZG"
+      },
+      {
+         "EmployeeID":9,
+         "names":"Patricia Doyle",
+         "customercompanyname":"Customer HFBZG"
+      },
+      {
+         "EmployeeID":5,
+         "names":"Sven Mortensen",
+         "customercompanyname":"Customer LJUCA"
+      },
+      {
+         "EmployeeID":6,
+         "names":"Paul Suurs",
+         "customercompanyname":"Customer LJUCA"
+      },
+      {
+         "EmployeeID":7,
+         "names":"Russell King",
+         "customercompanyname":"Customer LJUCA"
+      },
+      {
+         "EmployeeID":9,
+         "names":"Patricia Doyle",
+         "customercompanyname":"Customer LJUCA"
+      },
+      {
+         "EmployeeID":5,
+         "names":"Sven Mortensen",
+         "customercompanyname":"Customer RFNQC"
+      },
+      {
+         "EmployeeID":6,
+         "names":"Paul Suurs",
+         "customercompanyname":"Customer RFNQC"
+      },
+      {
+         "EmployeeID":7,
+         "names":"Russell King",
+         "customercompanyname":"Customer RFNQC"
+      },
+      {
+         "EmployeeID":9,
+         "names":"Patricia Doyle",
+         "customercompanyname":"Customer RFNQC"
+      },
+      {
+         "EmployeeID":5,
+         "names":"Sven Mortensen",
+         "customercompanyname":"Customer UBHAU"
+      },
+      {
+         "EmployeeID":6,
+         "names":"Paul Suurs",
+         "customercompanyname":"Customer UBHAU"
+      },
+      {
+         "EmployeeID":7,
+         "names":"Russell King",
+         "customercompanyname":"Customer UBHAU"
+      },
+      {
+         "EmployeeID":9,
+         "names":"Patricia Doyle",
+         "customercompanyname":"Customer UBHAU"
+      }
+   ]
+}

@@ -1,0 +1,34 @@
+﻿{
+   "CustomerOrders":[
+      {
+         "customerid":4,
+         "OrderDate":"2016-04-28",
+         "OrderID":71366,
+         "pickingcomplete":"2016-04-28T11:00:00",
+         "ExpectedDeliveryDate":"2016-04-29",
+         "StockItemID":22,
+         "QuantityOnHand":72747,
+         "status":"late"
+      },
+      {
+         "customerid":4,
+         "OrderDate":"2016-04-28",
+         "OrderID":71366,
+         "pickingcomplete":"2016-04-28T11:00:00",
+         "ExpectedDeliveryDate":"2016-04-29",
+         "StockItemID":42,
+         "QuantityOnHand":61075,
+         "status":"late"
+      },
+      {
+         "customerid":4,
+         "OrderDate":"2016-04-28",
+         "OrderID":71366,
+         "pickingcomplete":"2016-04-28T11:00:00",
+         "ExpectedDeliveryDate":"2016-04-29",
+         "StockItemID":100,
+         "QuantityOnHand":277863,
+         "status":"late"
+      }
+   ]
+}

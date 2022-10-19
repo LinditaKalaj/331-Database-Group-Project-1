@@ -1,0 +1,29 @@
+﻿{
+   "Customerdiscontord":[
+      {
+         "customerid":5,
+         "productid":17,
+         "discontamount":1
+      },
+      {
+         "customerid":5,
+         "productid":24,
+         "discontamount":2
+      },
+      {
+         "customerid":5,
+         "productid":28,
+         "discontamount":2
+      },
+      {
+         "customerid":5,
+         "productid":29,
+         "discontamount":1
+      },
+      {
+         "customerid":5,
+         "productid":53,
+         "discontamount":1
+      }
+   ]
+}

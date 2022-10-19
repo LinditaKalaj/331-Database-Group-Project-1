@@ -1,0 +1,104 @@
+{
+   "AvgPrices":[
+      {
+         "SupplierCompanyName":"Supplier BWGYE",
+         "avgprice":81.0000
+      },
+      {
+         "SupplierCompanyName":"Supplier CIYNM",
+         "avgprice":32.7250
+      },
+      {
+         "SupplierCompanyName":"Supplier ELCRN",
+         "avgprice":18.0833
+      },
+      {
+         "SupplierCompanyName":"Supplier EQPNC",
+         "avgprice":29.5000
+      },
+      {
+         "SupplierCompanyName":"Supplier ERVYZ",
+         "avgprice":24.0000
+      },
+      {
+         "SupplierCompanyName":"Supplier GQRCV",
+         "avgprice":40.7125
+      },
+      {
+         "SupplierCompanyName":"Supplier JDNUG",
+         "avgprice":18.4000
+      },
+      {
+         "SupplierCompanyName":"Supplier JNNES",
+         "avgprice":42.9000
+      },
+      {
+         "SupplierCompanyName":"Supplier KEREV",
+         "avgprice":33.4000
+      },
+      {
+         "SupplierCompanyName":"Supplier LVJUA",
+         "avgprice":140.7500
+      },
+      {
+         "SupplierCompanyName":"Supplier NZLIF",
+         "avgprice":28.7500
+      },
+      {
+         "SupplierCompanyName":"Supplier OAVQT",
+         "avgprice":44.5000
+      },
+      {
+         "SupplierCompanyName":"Supplier OGLRK",
+         "avgprice":38.9000
+      },
+      {
+         "SupplierCompanyName":"Supplier QOVFD",
+         "avgprice":64.0000
+      },
+      {
+         "SupplierCompanyName":"Supplier QQYEU",
+         "avgprice":21.0000
+      },
+      {
+         "SupplierCompanyName":"Supplier QWUSF",
+         "avgprice":23.2500
+      },
+      {
+         "SupplierCompanyName":"Supplier QZGUF",
+         "avgprice":22.5000
+      },
+      {
+         "SupplierCompanyName":"Supplier STUAZ",
+         "avgprice":31.6666
+      },
+      {
+         "SupplierCompanyName":"Supplier SVIYA",
+         "avgprice":67.5466
+      },
+      {
+         "SupplierCompanyName":"Supplier SWRXU",
+         "avgprice":18.5000
+      },
+      {
+         "SupplierCompanyName":"Supplier TEGSC",
+         "avgprice":25.8900
+      },
+      {
+         "SupplierCompanyName":"Supplier UHZRG",
+         "avgprice":18.0000
+      },
+      {
+         "SupplierCompanyName":"Supplier VHQZD",
+         "avgprice":20.3500
+      },
+      {
+         "SupplierCompanyName":"Supplier ZPYVS",
+         "avgprice":37.5650
+      },
+      {
+         "SupplierCompanyName":"Supplier ZWZDM",
+         "avgprice":28.7500
+      }
+   ]
+}

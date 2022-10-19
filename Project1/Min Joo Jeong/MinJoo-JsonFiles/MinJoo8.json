@@ -1,0 +1,84 @@
+{
+   "CustomerOrder":[
+      {
+         "CustomerKey":19585,
+         "EmailAddress":"kristi33@adventure-works.com",
+         "SalesOrderNumber":"SO75089",
+         "EnglishProductName":"Sport-100 Helmet, Blue",
+         "SalesAmount":34.9900,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":14680,
+         "EmailAddress":"marvin8@adventure-works.com",
+         "SalesOrderNumber":"SO75088",
+         "EnglishProductName":"ML Road Tire",
+         "SalesAmount":24.9900,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":16170,
+         "EmailAddress":"juan8@adventure-works.com",
+         "SalesOrderNumber":"SO75093",
+         "EnglishProductName":"HL Road Tire",
+         "SalesAmount":32.6000,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":11927,
+         "EmailAddress":"nicole32@adventure-works.com",
+         "SalesOrderNumber":"SO75085",
+         "EnglishProductName":"AWC Logo Cap",
+         "SalesAmount":8.9900,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":13350,
+         "EmailAddress":"isaac3@adventure-works.com",
+         "SalesOrderNumber":"SO75100",
+         "EnglishProductName":"Classic Vest, L",
+         "SalesAmount":63.5000,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":14680,
+         "EmailAddress":"marvin8@adventure-works.com",
+         "SalesOrderNumber":"SO75088",
+         "EnglishProductName":"Sport-100 Helmet, Blue",
+         "SalesAmount":34.9900,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":11794,
+         "EmailAddress":"lauren51@adventure-works.com",
+         "SalesOrderNumber":"SO75087",
+         "EnglishProductName":"Sport-100 Helmet, Red",
+         "SalesAmount":34.9900,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":20201,
+         "EmailAddress":"chloe24@adventure-works.com",
+         "SalesOrderNumber":"SO75101",
+         "EnglishProductName":"Women's Mountain Shorts, S",
+         "SalesAmount":69.9900,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":21524,
+         "EmailAddress":"faith2@adventure-works.com",
+         "SalesOrderNumber":"SO75113",
+         "EnglishProductName":"Sport-100 Helmet, Blue",
+         "SalesAmount":34.9900,
+         "OrderDate":"2014-01-28T00:00:00"
+      },
+      {
+         "CustomerKey":11287,
+         "EmailAddress":"henry16@adventure-works.com",
+         "SalesOrderNumber":"SO75096",
+         "EnglishProductName":"Sport-100 Helmet, Blue",
+         "SalesAmount":34.9900,
+         "OrderDate":"2014-01-28T00:00:00"
+      }
+   ]
+}
